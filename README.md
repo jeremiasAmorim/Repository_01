@@ -8,7 +8,7 @@
 
 Este é um Projeto de Análise de Dados do Airbnb da cidade de New York city, onde podemos identificar a média de preço de alugueis, a média de noites alugadas, Bairros mais caros, entre outras coisas que conseguimos identicar atráves dessa bela análise de Dados.
 
-[Link para o projeto completo](https://github.com/jeremiasAmorim/jeremias_datascience/edit/main/Projeto_Airbnb_New_York.ipynb)
+[Link para o projeto completo](https://github.com/jeremiasAmorim/Repository_01/blob/main/Projeto_Airbnb_New_York.ipynb)
 
 **Links para me acharem:**
 
